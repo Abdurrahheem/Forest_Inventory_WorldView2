@@ -1,1 +1,4 @@
-## Forest_Inventory_WorldView2
+## Automatic Forest Inventory Using WorldView2 Satellite Imagery
+
+
+[UAV](https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle) based [forest inventory](https://en.wikipedia.org/wiki/Forest_inventory) is well known for its high accuracy metrics in individual tree crown detection and classification tasks. The demands for automated tree crown detection and classification are increasing; thus, more scalable forest inventory techniques need to be developed as UAV-based approaches can not be easily applied for large-scale tasks. Some of the recent works in the field have proposed the use of satellite imagery for large-scale forest inventory tasks because of the availability of data for larger forest areas. However, due to the low resolution of satellite imagery, detection, and classification of individual tree crown becomes a challenging problem. In this we are proposing a novel approach for the forest inventory based on Convolutional Neural Networks
